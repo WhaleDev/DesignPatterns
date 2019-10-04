@@ -20,6 +20,7 @@
             </intent-filter>
         </activity>
         <activity android:name="pers.whale.designPatters.java.mvc.MvcActivity" />
+        <activity android:name=".java.mvvm.MvvmActivity" />
     </application>
 
 </manifest>
